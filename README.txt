@@ -1,4 +1,4 @@
-# My Laravel and Vue.js Project
+# My Laravel and Vue.js Project -> repo from https://github.com/konnikamii/fullstack_app.git
 
 This repository contains a full-stack application using Laravel for the backend and Vue.js with Vite for the frontend together with PostgreSQL. The project is Dockerized for easy setup and deployment. It includes Mailhog, unit testing, and is setup and ready for GTM and Google Analytics 4 (cookies).
 
